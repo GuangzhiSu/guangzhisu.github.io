@@ -1,11 +1,24 @@
 ---
-layout: cv
+layout: page
+title: CV
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+<!-- Inline PDF viewer -->
+<object
+  data="{{ '/assets/pdf/Guangzhi_Su_CV.pdf' | relative_url }}"
+  type="application/pdf"
+  width="100%"
+  height="1100px">
+  <p>Your browser can’t display PDFs inline.
+    <a href="{{ '/assets/pdf/Guangzhi_Su_CV.pdf' | relative_url }}">Download the CV (PDF)</a>.
+  </p>
+</object>
+
+<p>
+  <a class="btn btn-primary"
+     href="{{ '/assets/pdf/Guangzhi_Su_CV.pdf' | relative_url }}"
+     target="_blank" rel="noopener">
+     Download CV (PDF)
+  </a>
+</p>
