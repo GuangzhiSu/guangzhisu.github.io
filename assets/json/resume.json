@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Guangzhi Su",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "gs285@duke.edu",
+    "phone": "+86 182 5130 9825",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "Duke Kunshan University",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
