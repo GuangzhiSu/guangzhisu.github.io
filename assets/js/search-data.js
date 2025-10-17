@@ -409,7 +409,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-membership-inference-attacks-on-stock-prediction-models",
+          section: "News",},{id: "projects-cnn-for-scene-classification",
+          title: 'CNN for Scene Classification',
+          description: "Comprehensive CNN implementation for scene classification using ResNet-50 transfer learning with comparative analysis of dropout regularization and activation functions.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cnn_scene_classification/";
+            },},{id: "projects-membership-inference-attacks-on-stock-prediction-models",
           title: 'Membership Inference Attacks on Stock Prediction Models',
           description: "Investigating vulnerabilities of stock prediction models to Membership Inference Attacks (MIA) using Transformer, LSTM, and MambaStock architectures.",
           section: "Projects",handler: () => {
