@@ -419,6 +419,11 @@ ninja.data = [{
           description: "Comprehensive comparison of Faster R-CNN and YOLOv8 for object detection on a custom dataset with laptop, mouse, keyboard, and utensils.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/object_detection_yolo_rcnn/";
+            },},{id: "projects-youtube-video-crawler",
+          title: 'YouTube Video Crawler',
+          description: "A professional, modular Python tool for scraping and downloading YouTube videos with support for authentication, configurable search parameters, and batch processing.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/youtube_video_crawler/";
             },},{
         id: 'social-email',
         title: 'email',
