@@ -2,7 +2,7 @@
 layout: page
 title: YouTube Video Crawler
 description: A professional, modular Python tool for scraping and downloading YouTube videos with support for authentication, configurable search parameters, and batch processing.
-img: assets/img/youtube_crawler.jpg
+img: assets/img/youtube_crawler.png
 importance: 3
 category: work
 github: https://github.com/GuangzhiSu/Youtube_Video_Crawler

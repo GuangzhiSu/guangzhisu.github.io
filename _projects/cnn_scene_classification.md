@@ -2,7 +2,7 @@
 layout: page
 title: CNN for Scene Classification
 description: Comprehensive CNN implementation for scene classification using ResNet-50 transfer learning with comparative analysis of dropout regularization and activation functions.
-img: assets/img/scene_classification.jpg
+img: assets/img/scene_classification.png
 importance: 4
 category: work
 github: https://github.com/GuangzhiSu/CNN-for-scene-classification

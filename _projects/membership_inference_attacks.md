@@ -2,7 +2,7 @@
 layout: page
 title: Membership Inference Attacks on Stock Prediction Models
 description: Investigating vulnerabilities of stock prediction models to Membership Inference Attacks (MIA) using Transformer, LSTM, and MambaStock architectures.
-img: assets/img/stock_prediction.jpg
+img: assets/img/stock_prediction.png
 importance: 1
 category: work
 github: https://github.com/IsaacJacobson/ECE661_project

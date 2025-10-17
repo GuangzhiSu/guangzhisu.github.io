@@ -2,7 +2,7 @@
 layout: page
 title: Object Detection Using Faster R-CNN and YOLO
 description: Comprehensive comparison of Faster R-CNN and YOLOv8 for object detection on a custom dataset with laptop, mouse, keyboard, and utensils.
-img: assets/img/object_detection.jpg
+img: assets/img/object_detection.png
 importance: 2
 category: work
 github: https://github.com/GuangzhiSu/Object-Detection-Using-Faster_RCNN-and-YOLO
